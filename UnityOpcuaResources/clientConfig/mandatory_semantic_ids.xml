@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<MANDATORY_SEMANTIC_IDS>
+  <SEM_ID NAME="UNITY_DATA" ID="http://admin-shell.io/UnityData"/>
+  <SEM_ID NAME="DIMENSIONS" ID="0173-1#02-AAG004#005"/>
+  <SEM_ID NAME="PLC_COMMUNICATION" ID="http://admin-shell.io/PlcCommunication"/>
+  <SEM_ID NAME="OPERATIONAL_DATA" ID="http://admin-shell.io/OperationalData"/>
+</MANDATORY_SEMANTIC_IDS>

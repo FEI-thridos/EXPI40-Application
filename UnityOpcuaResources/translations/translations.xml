@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LANGUAGE_KEYS>
+  <KEY ID="Language_TA" SK="Jazyk" EN="Language" DE="Sprache" />
+  <KEY ID="OpcUaAggrServer_TA" SK="OPC UA Agregačný server" EN="OPC UA Aggregation Server" DE="OPC UA Aggregations-Server" />
+  <KEY ID="Connect_TA" SK="Pripojiť" EN="Connect" DE="Verbinden" />
+  <KEY ID="AasxRepo_TA" SK="AASX Repozitár" EN="AASX Repository" DE="AASX-Repository" />
+  <KEY ID="Production_TA" SK="Produkcia" EN="Production" DE="Produktion" />
+  <KEY ID="Design_TA" SK="Dizajn" EN="Design" DE="Gestaltung" />
+  <KEY ID="Home_TA" SK="Domov" EN="Home" DE="Zuhause" />
+  <KEY ID="Save_TA" SK="Uložiť" EN="Save" DE="Speichern" />
+  <KEY ID="Nodes_TA" SK="Uzly" EN="Nodes" DE="Knoten" />
+  <KEY ID="Filter_TA" SK="Filter" EN="Filter" DE="Filter" />
+  <KEY ID="Reconnect_TA" SK="Znovu pripojiť" EN="Reconnect" DE="Aktualisieren" />
+  <KEY ID="Spawn_TA" SK="Spawn" EN="Spawn" DE="Spawn" />
+  <KEY ID="StartVirtProd_TA" SK="Spustiť virtuálnu výrobu" EN="Start Virtual Production" DE="Virtuelle Produktion starten" />
+  <KEY ID="ResetServers_TA" SK="Obnoviť Servery" EN="Reset Servers" DE="Server Wiederherstellen" />
+  <KEY ID="Database_TA" SK="Databáza" EN="Database" DE="Datenbank" />
+  <KEY ID="Server_TA" SK="Server" EN="Server" DE="Server" />
+  <KEY ID="Instance_TA" SK="Inštancia" EN="Instance" DE="Instanz" />
+  <KEY ID="UName_TA" SK="Meno" EN="Name" DE="Name" />
+  <KEY ID="UPswd_TA" SK="Heslo" EN="Password" DE="Passwort" />
+</LANGUAGE_KEYS>
